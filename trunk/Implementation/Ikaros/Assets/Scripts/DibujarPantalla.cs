@@ -22,7 +22,7 @@ public class DibujarPantalla : MonoBehaviour {
 	 void OnGUI() {
 		GUILayout.BeginArea(new Rect(10, 10, Screen.width-20, Screen.height-20));
         GUILayout.Label("IKAROS COOP IT",styleLabelIkaros, GUILayout.Height(Screen.height/10));
-        if ( GUILayout.Button("Modelo-1",styleLabel1,GUILayout.Height(Screen.height/6)) ) ) {
+        if ( GUILayout.Button("Modelo-1",styleLabel1,GUILayout.Height(Screen.height/6))  ) {
 	  
 			Application.LoadLevel("Naruto");
 	}
