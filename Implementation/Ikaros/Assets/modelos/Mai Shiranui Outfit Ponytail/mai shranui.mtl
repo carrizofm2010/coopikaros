@@ -1,0 +1,144 @@
+newmtl Model001_Material001
+map_Kd sh_etc.png
+map_bump sh_etc_n.png
+
+newmtl Model001_Material002
+map_Kd sh_etc.png
+map_bump sh_etc_n.png
+
+newmtl Model001_Material003
+map_Kd sh_fac.png
+map_bump sh_fac_n.png
+
+newmtl Model001_Material004
+map_Kd aya_02_02_base.png
+map_bump aya_02_02_nrm.png
+
+newmtl Model001_Material005
+map_Kd aya_02_02_base.png
+map_bump aya_02_02_nrm.png
+
+newmtl Model001_Material006
+map_Kd rac_body_base.png
+map_bump rac_body_nrm_VLH2_PP1.png
+
+newmtl Model001_Material007
+map_Kd rac_body_base.png
+map_bump rac_body_nrm_VLH2_PP1.png
+
+newmtl Model001_Material008
+map_Kd rac_body_base.png
+map_bump rac_body_nrm_VLH2_PP1.png
+
+newmtl Model001_Material009
+map_Kd eye.png
+map_bump eyes_bump.png
+
+newmtl Model001_Material010
+map_Kd face.png
+map_bump face_bump.png
+
+newmtl Model001_Material011
+map_Kd kas001_kimono_base.png
+map_bump kas001_kimono_nrm_N.png
+
+newmtl Model001_Material012
+map_Kd gloves_diffuse.png
+map_bump gloves_bump.png
+
+newmtl Model001_Material013
+map_Kd kas001_obi_base.png
+map_bump kas001_obi_nrm_N.png
+
+newmtl Model001_Material014
+map_Kd kas001_kimono_base.png
+map_bump kas001_kimono_nrm_N.png
+
+newmtl Model001_Material015
+map_Kd kas001_kimono_base.png
+map_bump kas001_kimono_nrm_N.png
+
+newmtl Model001_Material016
+map_Kd kas003_kimono_base.png
+map_bump kas003_kimono_nrm_N.png
+
+newmtl Model001_Material017
+map_Kd kas001_obi_base.png
+map_bump kas001_obi_nrm_N.png
+
+newmtl Model001_Material018
+map_Kd R_ALL_042_360_040.png
+map_bump R_ALL_042_360_041.png
+
+newmtl Model001_Material019
+map_Kd kas_dlcu_006_wgold_base.png
+map_bump kas_dlcu_006_wgold_nrm.png
+
+newmtl Model001_Material020
+map_Kd shoes_diffuse.png
+map_bump shoes_bump.png
+
+newmtl Model001_Material021
+map_Kd kas001_tare_base.png
+map_bump kas001_tare_nrm_N.png
+
+newmtl Model001_Material022
+map_Kd kas001_tare_base.png
+map_bump kas001_tare_nrm_N.png
+
+newmtl Model001_Material023
+map_Kd ifan_d.png
+map_bump ifan_n.png
+
+newmtl Model001_Material024
+map_Kd ifan_d.png
+map_bump ifan_n.png
+
+newmtl Model001_Material025
+map_Kd dma_cos01_cloth_red_base_PP1.png
+map_bump dma_cos01_cloth_red_nrm_N_PP1.png
+
+newmtl Model001_Material026
+map_Kd rachel_front_hair_base.png
+map_bump rachel_front_hair_nrm.png
+
+newmtl Model001_Material027
+map_Kd eyebrow.png
+map_bump n.png
+
+newmtl Model001_Material028
+map_Kd eyelashes_diffuse.png
+map_bump n.png
+
+newmtl Model001_Material029
+map_Kd publichair_d.png
+map_bump bumpmap_flat.png
+
+newmtl Model001_Material030
+map_Kd scalp.png
+map_bump hair_bump.png
+
+newmtl Model001_Material031
+map_Kd kok_shoes_d.png
+map_bump kok_shoes_n.png
+
+newmtl Model001_Material032
+map_Kd dma_hair01_base_PP1.png
+map_bump hair_bump.png
+
+newmtl Model001_Material033
+map_Kd dma_hair02_base_PP1.png
+map_bump hair_bump.png
+
+newmtl Model001_Material034
+map_Kd dma_hair03_base_PP1.png
+map_bump hair_bump.png
+
+newmtl Model001_Material035
+map_Kd kas001_himo_base.png
+map_bump kas001_himo_nrm_N.png
+
+newmtl Model001_Material036
+map_Kd kas001_udewa_base.png
+map_bump kas001_udewa_nrm_N.png
+
