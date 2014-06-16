@@ -1,0 +1,450 @@
+root ground: 0 0 0 0 0 0
+root hips: 39 0 0 0 0 0
+pelvis: -7 0 0 0 0 0
+leg right thigh: -61 0 0 0 0 0
+leg right knee: 109 0 0 0 0 0
+leg right ankle: -66 0 0 0 0 0
+leg right toes: 0 0 0 0 0 0
+leg right knee ctr: 0 0 0 0 0 0
+leg right thigh ctr: 0 0 0 0 0 0
+leg right thigh ctr2: 0 0 0 0 0 0
+leg left thigh: 0 2 55 -0.034 -0.005 0
+leg left knee: 0 0 0 0 0 0
+leg left ankle: 10 14 -61 0 0 0
+leg left toes: -35 0 0 0 0 0
+leg left knee ctr: 0 0 0 0 0 0
+leg left thigh ctr: 0 0 0 0 0 0
+leg left thigh ctr2: 0 0 0 0 0 0
+leg left butt ctr: 0 0 0 0 0 0
+leg right butt ctr: 0 0 0 0 0 0
+skirt front root: -8 -5 -1 0 0 0
+skirt right a: -8 -5 -1 0 0 0
+skirt right b: -8 -5 -1 0 0 0
+skirt right c: -8 -5 -1 0 0 0
+skirt right d: -8 -5 -1 0 0 0
+skirt right e: -8 -5 -1 0 0 0
+skirt right f: -8 -5 -1 0 0 0
+skirt right g: -8 -5 -1 0 0 0
+skirt right h: -8 -5 -1 0 0 0
+skirt right 2a: -8 -5 -1 0 0 0
+skirt right 2b: -8 -5 -1 0 0 0
+skirt right 2c: -8 -5 -1 0 0 0
+skirt right 2d: -8 -5 -1 0 0 0
+skirt right 2e: -8 -5 -1 0 0 0
+skirt right 2f: -8 -5 -1 0 0 0
+skirt right 2g: -8 -5 -1 0 0 0
+skirt right 2h: -8 -5 -1 0 0 0
+skirt left 2a: -8 -5 -1 0 0 0
+skirt left 2b: -8 -5 -1 0 0 0
+skirt left 2c: -8 -5 -1 0 0 0
+skirt left 2d: -8 -5 -1 0 0 0
+skirt left 2e: -8 -5 -1 0 0 0
+skirt left 2f: -8 -5 -1 0 0 0
+skirt left 2g: -8 -5 -1 0 0 0
+skirt left 2h: -8 -5 -1 0 0 0
+skirt left a: -8 -5 -1 0 0 0
+skirt left b: -8 -5 -1 0 0 0
+skirt left c: -8 -5 -1 0 0 0
+skirt left d: -8 -5 -1 0 0 0
+skirt left e: -8 -5 -1 0 0 0
+skirt left f: -8 -5 -1 0 0 0
+skirt left g: -8 -5 -1 0 0 0
+skirt left h: -8 -5 -1 0 0 0
+skirt front middle a: -8 -5 -1 0 0 0
+skirt front middle b: -8 -5 -1 0 0 0
+skirt front middle c: -8 -5 -1 0 0 0
+skirt front middle d: -8 -5 -1 0 0 0
+skirt front middle e: -8 -5 -1 0 0 0
+skirt front middle f: -8 -5 -1 0 0 0
+skirt front middle g: -8 -5 -1 0 0 0
+skirt front middle h: -8 -5 -1 0 0 0
+skirt back root: -8 -5 -1 0 0 0
+skirt right back 2a: -8 -5 -1 0 0 0
+skirt right back 2b: -8 -5 -1 0 0 0
+skirt right back 2c: -8 -5 -1 0 0 0
+skirt right back 2d: -8 -5 -1 0 0 0
+skirt right back 2e: -8 -5 -1 0 0 0
+skirt right back 2f: -8 -5 -1 0 0 0
+skirt right back 2g: -8 -5 -1 0 0 0
+skirt right back 2h: -8 -5 -1 0 0 0
+skirt right back 2i: -8 -5 -1 0 0 0
+skirt back middle a: -8 -5 -1 0 0 0
+skirt back middle b: -8 -5 -1 0 0 0
+skirt back middle c: -8 -5 -1 0 0 0
+skirt back middle d: -8 -5 -1 0 0 0
+skirt back middle e: -8 -5 -1 0 0 0
+skirt back middle f: -8 -5 -1 0 0 0
+skirt back middle g: -8 -5 -1 0 0 0
+skirt back middle h: -8 -5 -1 0 0 0
+skirt back middle i: -8 -5 -1 0 0 0
+skirt back left a: -8 -5 -1 0 0 0
+skirt back left b: -8 -5 -1 0 0 0
+skirt back left c: -8 -5 -1 0 0 0
+skirt back left d: -8 -5 -1 0 0 0
+skirt back left e: -8 -5 -1 0 0 0
+skirt back left f: -8 -5 -1 0 0 0
+skirt back left g: -8 -5 -1 0 0 0
+skirt back left h: -8 -5 -1 0 0 0
+skirt back left i: -8 -5 -1 0 0 0
+skirt back left 2a: -8 -5 -1 0 0 0
+skirt back left 2b: -8 -5 -1 0 0 0
+skirt back left 2c: -8 -5 -1 0 0 0
+skirt back left 2d: -8 -5 -1 0 0 0
+skirt back left 2e: -8 -5 -1 0 0 0
+skirt back left 2f: -8 -5 -1 0 0 0
+skirt back left 2g: -8 -5 -1 0 0 0
+skirt back left 2h: -8 -5 -1 0 0 0
+skirt back left 2i: -8 -5 -1 0 0 0
+skirt right back a: -8 -5 -1 0 0 0
+skirt right back b: -8 -5 -1 0 0 0
+skirt right back c: -8 -5 -1 0 0 0
+skirt right back d: -8 -5 -1 0 0 0
+skirt right back e: -8 -5 -1 0 0 0
+skirt right back f: -8 -5 -1 0 0 0
+skirt right back g: -8 -5 -1 0 0 0
+skirt right back h: -8 -5 -1 0 0 0
+skirt right back i: -8 -5 -1 0 0 0
+spine lower: 25 30 0 0 0 0
+bow right 3a: -8 0 0 0 0 0
+bow right 3b: -8 0 0 0 0 0
+bow right 3c: -8 0 0 0 0 0
+bow right 3d: -8 0 0 0 0 0
+bow right 3e: -8 0 0 0 0 0
+bow right 3f: -8 0 0 0 0 0
+bow right 3g: -8 0 0 0 0 0
+bow right 3h: -8 0 0 0 0 0
+bow right 1a: -8 0 0 0 0 0
+bow right 1b: -8 0 0 0 0 0
+bow right 1c: -8 0 0 0 0 0
+bow right 1d: -8 0 0 0 0 0
+bow right 1e: -8 0 0 0 0 0
+bow right 1f: -8 0 0 0 0 0
+bow right 1g: -8 0 0 0 0 0
+bow right 1h: -8 0 0 0 0 0
+bow right 2a: -8 0 0 0 0 0
+bow right 2b: -8 0 0 0 0 0
+bow right 2c: -8 0 0 0 0 0
+bow right 2d: -8 0 0 0 0 0
+bow right 2e: -8 0 0 0 0 0
+bow right 2f: -8 0 0 0 0 0
+bow right 2g: -8 0 0 0 0 0
+bow right 2h: -8 0 0 0 0 0
+bow left 1a: -8 0 0 0 0 0
+bow left 1b: -8 0 0 0 0 0
+bow left 1c: -8 0 0 0 0 0
+bow left 1d: -8 0 0 0 0 0
+bow left 1e: -8 0 0 0 0 0
+bow left 1f: -8 0 0 0 0 0
+bow left 1g: -8 0 0 0 0 0
+bow left 1h: -8 0 0 0 0 0
+bow left 2a: -8 0 0 0 0 0
+bow left 2b: -8 0 0 0 0 0
+bow left 2c: -8 0 0 0 0 0
+bow left 2d: -8 0 0 0 0 0
+bow left 2e: -8 0 0 0 0 0
+bow left 2f: -8 0 0 0 0 0
+bow left 2g: -8 0 0 0 0 0
+bow left 2h: -8 0 0 0 0 0
+bow left 3a: -8 0 0 0 0 0
+bow left 3b: -8 0 0 0 0 0
+bow left 3c: -8 0 0 0 0 0
+bow left 3d: -8 0 0 0 0 0
+bow left 3e: -8 0 0 0 0 0
+bow left 3f: -8 0 0 0 0 0
+bow left 3g: -8 0 0 0 0 0
+bow left 3h: -8 0 0 0 0 0
+tail 1: -4 -25 -5 0 0 0
+tail 2: -47 -3 20 0 0 0
+tail 3: -21 0 37 0 0 0
+tail 4: 0 0 20 0 0 0
+tail 5: 0 0 0 0 0 0
+tail 6: 0 0 0 0 0 0
+tail 7: 0 0 12 0 0 0
+tail 8: 0 0 0 0 0 0
+tail 9: 0 0 0 0 0 0
+tail 10: 0 0 0 0 0 0
+tail 11: 0 0 0 0 0 0
+spine upper: 19 0 -23 0 0 0
+arm left shoulder 1: 14 -4 0 0 0 0
+arm left shoulder 2: 14 -4 0 0 0 0
+arm left elbow: 14 -4 0 0 0 0
+arm left wrist: 14 -4 0 0 0 0
+arm left finger 2a: 14 -4 0 0 0 0
+arm left finger 2b: 14 -4 0 0 0 0
+arm left finger 2c: 14 -4 0 0 0 0
+arm left finger 5a: 14 -4 0 0 0 0
+arm left finger 5b: 14 -4 0 0 0 0
+arm left finger 5c: 14 -4 0 0 0 0
+arm left finger 4a: 14 -4 0 0 0 0
+arm left finger 4b: 14 -4 0 0 0 0
+arm left finger 4c: 14 -4 0 0 0 0
+arm left finger 3a: 14 -4 0 0 0 0
+arm left finger 3b: 14 -4 0 0 0 0
+arm left finger 3c: 14 -4 0 0 0 0
+arm left finger 1a: 14 -4 0 0 0 0
+arm left finger 1b: 14 -4 0 0 0 0
+arm left finger 1c: 14 -4 0 0 0 0
+fan left root: 0 0 0 0 0 0
+fan left right: 0 0 0 0 0 0
+fan left middle: 0 0 0 0 0 0
+fan left left: 0 0 0 0 0 0
+arm left elbow ctr: 14 -4 0 0 0 0
+arm left elbow ctr2: 14 -4 0 0 0 0
+arm left wrist ctr: 14 -4 0 0 0 0
+arm left shoulder 2 ctr: 14 -4 0 0 0 0
+arm left shoulder 2 ctr2: 14 -4 0 0 0 0
+arm right shoulder 1: -14 15 0 0 0 0
+arm right shoulder 2: -14 15 -5 0 0 0
+arm right elbow: -14 15 0 0 0 0
+arm right wrist: -14 15 0 0 0 0
+arm right finger 2a: -14 15 -2 0 0 0
+arm right finger 2b: -14 15 59 0 0 0
+arm right finger 2c: -14 15 20 0 0 0
+arm right finger 5a: -14 15 21 0 0 0
+arm right finger 5b: -14 15 94 0 0 0
+arm right finger 5c: -14 15 4 0 0 0
+arm right finger 4a: -14 15 26 0 0 0
+arm right finger 4b: -14 15 104 0 0 0
+arm right finger 4c: -14 15 24 0 0 0
+arm right finger 3a: -14 15 19 0 0 0
+arm right finger 3b: -14 15 111 0 0 0
+arm right finger 3c: -14 15 13 0 0 0
+arm right finger 1a: -14 15 0 0 0 0
+arm right finger 1b: 81 -12 -14 0 0 0
+arm right finger 1c: -14 15 0 0 0 0
+fan right root: 0 0 0 0 0 0
+fan right right: 0 0 0 0 0 0
+fan right middle: 0 0 0 0 0 0
+fan right left: 0 0 0 0 0 0
+arm right elbow ctr: -14 15 0 0 0 0
+arm right elbow ctr2: -14 15 0 0 0 0
+arm right wrist ctr: -14 15 0 0 0 0
+arm right shoulder 2 ctr: -14 15 0 0 0 0
+arm right shoulder 2 ctr2: -14 15 0 0 0 0
+breast left base: 0 0 0 0 0 0
+breast left tip: 0 0 0 0 0 0
+breast left 1: 0 0 0 0 0 0
+breast left 2: 0 0 0 0 0 0
+breast left 3: 0 0 0 0 0 0
+breast left 4: 0 0 0 0 0 0
+breast left 5: 0 0 0 0 0 0
+breast right base: 0 0 0 0 0 0
+breast right tip: 0 0 0 0 0 0
+breast right 1: 0 0 0 0 0 0
+breast right 2: 0 0 0 0 0 0
+breast right 3: 0 0 0 0 0 0
+breast right 4: 0 0 0 0 0 0
+breast right 5: 0 0 0 0 0 0
+head neck lower: -22 0 0 0 0 0
+head neck upper: -33 20 -17 0 0 0
+head eyebrow right 1: 0 0 0 0 0 0
+head eyebrow right 2: 0 0 0 0 0 0
+head eyebrow right 3: 0 0 0 0 0 0
+head nostril right 1: 0 0 0 0 0 0
+head eyeball right: -2 0.8662387 0 0 0 0
+head eyelid right upper: 0 0 0 0 0 0
+head eyelid right lower: 0 0 0 0 0 0
+head cheek right 1: 0 0 0 0 0 0
+head nostril right 2: 0 0 0 0 0 0
+head cheek right 2: 0 0 0 0 0 0
+head eyebrow left 1: 0 0 0 0 0 0
+head eyebrow left 2: 0 0 0 0 0 0
+head eyebrow left 3: 0 0 0 0 0 0
+head nostril left 1: 0 0 0 0 0 0
+head eyeball left: -2 -0.2185387 0 0 0 0
+head eyelid left upper: 0 0 0 0 0 0
+head eyelid left lower: 0 0 0 0 0 0
+head cheek left 1: 0 0 0 0 0 0
+head nostril left 2: 0 0 0 0 0 0
+head cheek left 2: 0 0 0 0 0 0
+head lip upper middle: 0 0 0 0 0 0
+head lip upper right: 0 0 0 0 0 0
+head lip upper left: 0 0 0 0 0 0
+head jaw: 0 0 0 0 0 0
+head lip lower middle: 0 0 0 0 0 0
+head lip lower right: 0 0 0 0 0 0
+head mouth corner right: 0 0 0 0 0 0
+head lip lower left: 0 0 0 0 0 0
+head mouth corner left: 0 0 0 0 0 0
+head tongue 1: 0 0 0 0 0 0
+head tongue 2: 0 0 0 0 0 0
+hair back right h1: 8 22 1 0 0 0
+hair back right h2: 8 22 1 0 0 0
+hair back right h3: 8 22 1 0 0 0
+hair back right h4: 8 22 1 0 0 0
+hair back right h5: 8 22 1 0 0 0
+hair back right h6: 8 22 1 0 0 0
+hair back right h7: 8 22 1 0 0 0
+hair back right h8: 8 22 1 0 0 0
+hair back right h9: 8 22 1 0 0 0
+hair back right e1: 8 22 1 0 0 0
+hair back right e2: 8 22 1 0 0 0
+hair back right e3: 8 22 1 0 0 0
+hair back right e4: 8 22 1 0 0 0
+hair back right e5: 8 22 1 0 0 0
+hair back right e6: 8 22 1 0 0 0
+hair back right e7: 8 22 1 0 0 0
+hair back right e8: 8 22 1 0 0 0
+hair back right e9: 8 22 1 0 0 0
+hair back right e10: 8 22 1 0 0 0
+hair back right b1: 8 22 1 0 0 0
+hair back right b2: 8 22 1 0 0 0
+hair back right b3: 8 22 1 0 0 0
+hair back right b4: 8 22 1 0 0 0
+hair back right b5: 8 22 1 0 0 0
+hair back right b6: 8 22 1 0 0 0
+hair back right b7: 8 22 1 0 0 0
+hair back right b8: 8 22 1 0 0 0
+hair back right b9: 8 22 1 0 0 0
+hair back right b10: 8 22 1 0 0 0
+hair back left b1: 0 0 0 0 0 0
+hair back left b2: 0 0 0 0 0 0
+hair back left b3: 0 0 0 0 0 0
+hair back left b4: 0 0 0 0 0 0
+hair back left b5: 0 0 0 0 0 0
+hair back left b6: 0 0 0 0 0 0
+hair back left b7: 0 0 0 0 0 0
+hair back left b8: 0 0 0 0 0 0
+hair back left b9: 0 0 0 0 0 0
+hair back left b10: 0 0 0 0 0 0
+hair back left e1: 0 0 0 0 0 0
+hair back left e2: 0 0 0 0 0 0
+hair back left e3: 0 0 0 0 0 0
+hair back left e4: 0 0 0 0 0 0
+hair back left e5: 0 0 0 0 0 0
+hair back left e6: 0 0 0 0 0 0
+hair back left e7: 0 0 0 0 0 0
+hair back left e8: 0 0 0 0 0 0
+hair back left e9: 0 0 0 0 0 0
+hair back left e10: 0 0 0 0 0 0
+hair back left h1: 0 0 0 0 0 0
+hair back left h2: 0 0 0 0 0 0
+hair back left h3: 0 0 0 0 0 0
+hair back left h4: 0 0 0 0 0 0
+hair back left h5: 0 0 0 0 0 0
+hair back left h6: 0 0 0 0 0 0
+hair back left h7: 0 0 0 0 0 0
+hair back left h8: 0 0 0 0 0 0
+hair back left h9: 0 0 0 0 0 0
+hair back right f1: 8 22 1 0 0 0
+hair back right f2: 8 22 1 0 0 0
+hair back right f3: 8 22 1 0 0 0
+hair back right f4: 8 22 1 0 0 0
+hair back right f5: 8 22 1 0 0 0
+hair back right f6: 8 22 1 0 0 0
+hair back right f7: 8 22 1 0 0 0
+hair back right f8: 8 22 1 0 0 0
+hair back right f9: 8 22 1 0 0 0
+hair back right f10: 8 22 1 0 0 0
+hair back right c1: 8 22 1 0 0 0
+hair back right c2: 8 22 1 0 0 0
+hair back right c3: 8 22 1 0 0 0
+hair back right c4: 8 22 1 0 0 0
+hair back right c5: 8 22 1 0 0 0
+hair back right c6: 8 22 1 0 0 0
+hair back right c7: 8 22 1 0 0 0
+hair back right c8: 8 22 1 0 0 0
+hair back right c9: 8 22 1 0 0 0
+hair back right c10: 8 22 1 0 0 0
+hair back a1: 0 0 0 0 0 0
+hair back a2: 0 0 0 0 0 0
+hair back a3: 0 0 0 0 0 0
+hair back a4: 0 0 0 0 0 0
+hair back a5: 0 0 0 0 0 0
+hair back a6: 0 0 0 0 0 0
+hair back a7: 0 0 0 0 0 0
+hair back a8: 0 0 0 0 0 0
+hair back a9: 0 0 0 0 0 0
+hair back a10: 0 0 0 0 0 0
+hair back left c1: 0 0 0 0 0 0
+hair back left c2: 0 0 0 0 0 0
+hair back left c3: 0 0 0 0 0 0
+hair back left c4: 0 0 0 0 0 0
+hair back left c5: 0 0 0 0 0 0
+hair back left c6: 0 0 0 0 0 0
+hair back left c7: 0 0 0 0 0 0
+hair back left c8: 0 0 0 0 0 0
+hair back left c9: 0 0 0 0 0 0
+hair back left c10: 0 0 0 0 0 0
+hair back left f1: 0 0 0 0 0 0
+hair back left f2: 0 0 0 0 0 0
+hair back left f3: 0 0 0 0 0 0
+hair back left f4: 0 0 0 0 0 0
+hair back left f5: 0 0 0 0 0 0
+hair back left f6: 0 0 0 0 0 0
+hair back left f7: 0 0 0 0 0 0
+hair back left f8: 0 0 0 0 0 0
+hair back left f9: 0 0 0 0 0 0
+hair back left f10: 0 0 0 0 0 0
+hair back right g1: 8 22 1 0 0 0
+hair back right g2: 8 22 1 0 0 0
+hair back right g3: 8 22 1 0 0 0
+hair back right g4: 8 22 1 0 0 0
+hair back right g5: 8 22 1 0 0 0
+hair back right g6: 8 22 1 0 0 0
+hair back right g7: 8 22 1 0 0 0
+hair back right g8: 8 22 1 0 0 0
+hair back right g9: 8 22 1 0 0 0
+hair back right d1: 8 22 1 0 0 0
+hair back right d2: 8 22 1 0 0 0
+hair back right d3: 8 22 1 0 0 0
+hair back right d4: 8 22 1 0 0 0
+hair back right d5: 8 22 1 0 0 0
+hair back right d6: 8 22 1 0 0 0
+hair back right d7: 8 22 1 0 0 0
+hair back right d8: 8 22 1 0 0 0
+hair back right d9: 8 22 1 0 0 0
+hair back right a1: 8 22 1 0 0 0
+hair back right a2: 8 22 1 0 0 0
+hair back right a3: 8 22 1 0 0 0
+hair back right a4: 8 22 1 0 0 0
+hair back right a5: 8 22 1 0 0 0
+hair back right a6: 8 22 1 0 0 0
+hair back right a7: 8 22 1 0 0 0
+hair back right a8: 8 22 1 0 0 0
+hair back right a9: 8 22 1 0 0 0
+hair back left a1: 0 0 0 0 0 0
+hair back left a2: 0 0 0 0 0 0
+hair back left a3: 0 0 0 0 0 0
+hair back left a4: 0 0 0 0 0 0
+hair back left a5: 0 0 0 0 0 0
+hair back left a6: 0 0 0 0 0 0
+hair back left a7: 0 0 0 0 0 0
+hair back left a8: 0 0 0 0 0 0
+hair back left a9: 0 0 0 0 0 0
+hair back left d1: 0 0 0 0 0 0
+hair back left d2: 0 0 0 0 0 0
+hair back left d3: 0 0 0 0 0 0
+hair back left d4: 0 0 0 0 0 0
+hair back left d5: 0 0 0 0 0 0
+hair back left d6: 0 0 0 0 0 0
+hair back left d7: 0 0 0 0 0 0
+hair back left d8: 0 0 0 0 0 0
+hair back left d9: 0 0 0 0 0 0
+hair back left g1: 0 0 0 0 0 0
+hair back left g2: 0 0 0 0 0 0
+hair back left g3: 0 0 0 0 0 0
+hair back left g4: 0 0 0 0 0 0
+hair back left g5: 0 0 0 0 0 0
+hair back left g6: 0 0 0 0 0 0
+hair back left g7: 0 0 0 0 0 0
+hair back left g8: 0 0 0 0 0 0
+hair back left g9: 0 0 0 0 0 0
+hair front left b1: 0 0 0 0 0 0
+hair front left b2: 0 0 0 0 0 0
+hair front left b3: 0 0 0 0 0 0
+hair front left a1: 0 0 0 0 0 0
+hair front left a2: 0 0 0 0 0 0
+hair front left a3: 0 0 0 0 0 0
+hair front left c1: 0 0 0 0 0 0
+hair front left c2: 0 0 0 0 0 0
+hair front left c3: 0 0 0 0 0 0
+hair front right b1: 0 0 0 0 0 0
+hair front right b2: 0 0 0 0 0 0
+hair front right b3: 0 0 0 0 0 0
+hair front right a1: 0 0 0 0 0 0
+hair front right a2: 0 0 0 0 0 0
+hair front right a3: 0 0 0 0 0 0
+hair front right c1: 0 0 0 0 0 0
+hair front right c2: 0 0 0 0 0 0
+hair front right c3: 0 0 0 0 0 0

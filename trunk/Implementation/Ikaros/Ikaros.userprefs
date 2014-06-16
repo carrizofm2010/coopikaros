@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\DibujarPantalla.cs">
+    <Files>
+      <File FileName="Assets\Scripts\DibujarPantalla.cs" Line="78" Column="61" />
+      <File FileName="Assets\Scripts\CambiarPosicion.cs" Line="74" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\EclipsePlataform\adt-bundle-windows-x86_64-20140321\Ikaros\Assets\Scripts\About.cs" line="26" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
